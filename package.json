@@ -1,0 +1,12 @@
+{
+  "name": "express-routing-middleware-lab",
+  "version": "1.0.0",
+  "description": "ExpressJS Routing, HTTP Methods and Middleware Lab",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
